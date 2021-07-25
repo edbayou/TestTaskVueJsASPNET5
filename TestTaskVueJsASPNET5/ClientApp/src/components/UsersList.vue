@@ -8,8 +8,6 @@
             @click="createUserRecord()">
             Добавит/Изменить
         </button>
-        <b-row>
-            <b-col>
                 <table class="table table-striped">
                     <thead>
                         <tr>
@@ -32,8 +30,6 @@
                         </tr>
                     </tbody>
                 </table>
-            </b-col>
-        </b-row>
     </div>
 </template>
 
