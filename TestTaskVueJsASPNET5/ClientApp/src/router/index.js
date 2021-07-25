@@ -3,7 +3,7 @@ import UsersList from "@/components/UsersList.vue";
 
 const routes = [
     {
-        path: "/UsersList",
+        path: "/",
         name: "UsersList",
         component: UsersList,
     },  

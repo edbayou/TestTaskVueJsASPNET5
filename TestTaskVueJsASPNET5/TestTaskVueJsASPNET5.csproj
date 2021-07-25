@@ -67,7 +67,7 @@
     </ItemGroup>
   </Target>
 
-  <ProjectExtensions><VisualStudio><UserProperties clientapp_4package_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="https://json.schemastore.org/launchsettings.json" clientapp_4package_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
 
 
 </Project>
